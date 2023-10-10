@@ -16,7 +16,7 @@
 
 
 ## Estatísticas no GitHub
-![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?CaiqueCN04=CaiqueCN04&show_icons=true)
+![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=CaiqueCN04&show_icons=true)
 
 ## Entre em Contato
 - 📧 Email: cchagas04@gmail.com
