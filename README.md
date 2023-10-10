@@ -24,7 +24,7 @@
 
 ## Estatísticas no GitHub
 ![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=CaiqueCN04&show_icons=true&theme=dark)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueCN04&theme=dracula"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueCN04&theme=dracula"/>
 
 ## Entre em Contato
 - 📧 Email: cchagas04@gmail.com
