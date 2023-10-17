@@ -1,6 +1,7 @@
 # Olá, eu sou Caique Chagas Nitta 👋
 
 ## Sobre mim
+- Tenho 19 anos 
 - 👨‍💻 Futuro desenvolvedor Full Stack
 - 🌍 Apaixonado por tecnologia e programação
 - 🎓 Graduando em Engenharia de Software FIAP
