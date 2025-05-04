@@ -1,13 +1,13 @@
 # Olá, eu sou Caique Chagas Nitta 👋
 
 ## Sobre mim
-- Tenho 19 anos 
+- Tenho 20 anos 
 - 👨‍💻 Futuro desenvolvedor Full Stack
 - 🌍 Apaixonado por tecnologia e programação
 - 🎓 Graduando em Engenharia de Software FIAP
 
 ## Minhas Habilidades
-- 💻 Linguagens: JavaScript, Python, HTML, CSS
+- 💻 Linguagens: JavaScript, Python, HTML, CSS, JAVA
 - 🛠️ Frameworks: React, Node.js
 - 🚀 Outras: Git, GitHub
    <div style="display: inline_block"><br>
@@ -23,9 +23,6 @@
 - [LinkedIn](https://www.linkedin.com/in/caique-chagas-nitta-54500b249)
 
 
-## Estatísticas no GitHub
-![Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=CaiqueCN04&show_icons=true&theme=dark)
-<img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiqueCN04&theme=dracula"/>
 
 ## Entre em Contato
 - 📧 Email: cchagas04@gmail.com
